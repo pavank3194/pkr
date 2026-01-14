@@ -1,6 +1,7 @@
 {
   "name": "frontend",
   "version": "0.1.0",
+  "homepage": "https://pavank3194.github.io/pkr/",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
