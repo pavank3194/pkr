@@ -1,8 +1,6 @@
-import logo from './logo.svg';
 import './scss/index.scss';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 
-import Login from './auth/Login';
 import Register from './auth/Register';
 
 
