@@ -1,0 +1,21 @@
+.input-container{
+    display: grid;
+    label{
+        margin-bottom: 0.25rem;
+        font-weight: 600;
+    }
+    .default-input{
+        padding: 0.6rem;
+        border: 1px solid #ccc;
+        border-radius: 0.5rem;
+        font-size: 1rem;
+        margin-bottom: 1rem;
+    }
+    .input-otp{
+        text-align: center;
+        font-size: 1.5rem;
+        padding: 0.75rem;
+        border-radius: 0.5rem;
+        margin-bottom: 1rem;
+    }
+}
